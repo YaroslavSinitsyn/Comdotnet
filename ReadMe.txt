@@ -1,0 +1,1 @@
+RegAsm.exe "C:\work\C#_project\ComDotNetSample\ComDotNetSample\bin\Release\ComDotNetSample.dll" /codebase /tlb:C:\work\C#_project\ComDotNetSample\ComDotNetSample\bin\Release/ComDotNetSample.tlb
